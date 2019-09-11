@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Password_sc-ifAKCX kYzkVD</name>
+   <tag></tag>
+   <elementGuidId>8d923841-930e-4ff3-aa43-f30c69127bf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>current-password</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-ifAKCX kYzkVD</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY sc-TOsTZ fARmdO&quot;]/div[@class=&quot;sc-bdVaJa sc-jlyJG sc-dVhcbM fxEtZc&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY bAFBbU&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY bjQBlM&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY sc-eqIVtm bPYvTX&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY jNGSGs&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-gipzik kvkbbi&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY iFcscI&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY bAFBbU&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH isfHUt&quot;]/form[1]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY bAFBbU&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH jpglFY&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH sc-kAzzGY bAFBbU&quot;]/div[@class=&quot;sc-bdVaJa sc-bwzfXH isfHUt&quot;]/input[@class=&quot;sc-ifAKCX kYzkVD&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div[2]/div/div/div/form/div/div[3]/div/div[2]/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/following::input[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/input</value>
+   </webElementXpaths>
+</WebElementEntity>

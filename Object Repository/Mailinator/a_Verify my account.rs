@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Verify my account</name>
+   <tag></tag>
+   <elementGuidId>f82f0d45-a1c5-4a62-a0e6-f4f741a1fbe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='templateBody']/table[3]/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/table/tbody/tr/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mcnButton </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Verify my account</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mailinator.com/key/url?url=https%3A//mandrillapp.com/track/click/30231120/app.foleon.com%3Fp%3DeyJzIjoiZVlwc3NPNmVDSlpBTXpoSWdRTUJxS0lfMTVNIiwidiI6MSwicCI6IntcInVcIjozMDIzMTEyMCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FwcC5mb2xlb24uY29tXFxcL3ZlcmlmeVxcXC82YzVhNzMxNTFlM2E4ZjMwYmRjYTZhOWM2OWI2M2I4ZlwiLFwiaWRcIjpcImE2NzExNjc0ZTI2MzRmNzI4NDIyMTJlMjQ3YWY1MmNjXCIsXCJ1cmxfaWRzXCI6W1wiOWZmNzhiMmEzZTU0MWUwOGFhNzdjYjNiMDk4N2MyZjNiZDI2YWNiOVwiXX0ifQ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_other</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify my account</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateBody&quot;)/table[@class=&quot;mcnCodeBlock&quot;]/tbody[@class=&quot;mcnTextBlockOuter&quot;]/tr[1]/td[@class=&quot;mcnTextBlockInner&quot;]/table[1]/tbody[1]/tr[1]/td[2]/table[@class=&quot;mcnButtonBlock&quot;]/tbody[@class=&quot;mcnButtonBlockOuter&quot;]/tr[1]/td[@class=&quot;mcnButtonBlockInner&quot;]/table[@class=&quot;mcnButtonContentContainer&quot;]/tbody[1]/tr[1]/td[@class=&quot;mcnButtonContent&quot;]/a[@class=&quot;mcnButton&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Mailinator/iframe_EMAIL BODY</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='templateBody']/table[3]/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/table/tbody/tr/td/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Verify my account')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify your account'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Foleon team'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mailinator.com/key/url?url=https%3A//mandrillapp.com/track/click/30231120/app.foleon.com%3Fp%3DeyJzIjoiZVlwc3NPNmVDSlpBTXpoSWdRTUJxS0lfMTVNIiwidiI6MSwicCI6IntcInVcIjozMDIzMTEyMCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FwcC5mb2xlb24uY29tXFxcL3ZlcmlmeVxcXC82YzVhNzMxNTFlM2E4ZjMwYmRjYTZhOWM2OWI2M2I4ZlwiLFwiaWRcIjpcImE2NzExNjc0ZTI2MzRmNzI4NDIyMTJlMjQ3YWY1MmNjXCIsXCJ1cmxfaWRzXCI6W1wiOWZmNzhiMmEzZTU0MWUwOGFhNzdjYjNiMDk4N2MyZjNiZDI2YWNiOVwiXX0ifQ')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+   </webElementXpaths>
+</WebElementEntity>

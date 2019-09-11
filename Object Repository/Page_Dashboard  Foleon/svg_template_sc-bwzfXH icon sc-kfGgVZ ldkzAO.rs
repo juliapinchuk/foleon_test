@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_template_sc-bwzfXH icon sc-kfGgVZ ldkzAO</name>
+   <tag></tag>
+   <elementGuidId>11feafc4-5942-4ed0-874b-9a136a9d43b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;sc-htpNat sc-bxivhb sc-jzJRlG gYHZYm&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb QuLXz&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb bdIdfB&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb llbxqI&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb sc-iRbamj giKOWS&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb shouldAnimate sc-ibxdXY bdORtK&quot;]/div[@class=&quot;sc-htpNat sc-dqBHgY eqMOge&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb sc-gxMtzJ gEZOmB&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb sc-jzJRlG sc-eXEjpC ehbOmr&quot;]/svg[@class=&quot;sc-bwzfXH icon sc-kfGgVZ ldkzAO&quot;][count(. | //svg[@class = 'sc-bwzfXH icon sc-kfGgVZ ldkzAO']) = count(//svg[@class = 'sc-bwzfXH icon sc-kfGgVZ ldkzAO'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>secondary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>m</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bwzfXH icon sc-kfGgVZ ldkzAO</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>30px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-htpNat sc-bxivhb sc-jzJRlG gYHZYm&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb QuLXz&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb bdIdfB&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb llbxqI&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb sc-iRbamj giKOWS&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb shouldAnimate sc-ibxdXY bdORtK&quot;]/div[@class=&quot;sc-htpNat sc-dqBHgY eqMOge&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb sc-gxMtzJ gEZOmB&quot;]/div[@class=&quot;sc-htpNat sc-bxivhb sc-jzJRlG sc-eXEjpC ehbOmr&quot;]/svg[@class=&quot;sc-bwzfXH icon sc-kfGgVZ ldkzAO&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

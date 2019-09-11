@@ -1,4 +1,4 @@
-# Automated test plan test for editor.foleon.com
+# Automated test plan for editor.foleon.com
 
 Environment:  
   
